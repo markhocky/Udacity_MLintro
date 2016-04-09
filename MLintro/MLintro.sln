@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "svm", "..\svm\svm.pyproj", "{60CF7F73-0C06-426A-AC3D-0FE33C2A4D99}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "naive_bayes", "..\naive_bayes\naive_bayes.pyproj", "{0B92BDA8-5A07-461B-A2B4-9FED6149FA40}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "decision_trees", "..\decision_trees\decision_trees.pyproj", "{76D832B5-0652-455E-827F-78B59EEF1D57}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tools", "..\tools\tools.pyproj", "{A131421F-FF85-452D-B9D9-CEF4F9963669}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "choose_your_own", "..\choose_your_own\choose_your_own.pyproj", "{8DD6C740-E0DE-4F95-A945-DE67F1E7EC4E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "explore_enron_data", "..\explore_enron_data\explore_enron_data.pyproj", "{DA55B64A-CAAB-4C81-BD02-5C08C743889F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "regression", "..\regression\regression.pyproj", "{98C00738-3EC4-4D96-A446-B27415A53649}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "outliers", "..\outliers\outliers.pyproj", "{EB4AE7AE-97D3-41BD-BD9B-C5A35CCE0914}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "k_means", "..\k_means\k_means.pyproj", "{28DDCB31-B879-4182-B3CE-2DCA2BE87CDB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "text_learning", "..\text_learning\text_learning.pyproj", "{7D4AC207-69DB-49B0-ADA2-23572601BCE3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "feature_selection", "..\feature_selection\feature_selection.pyproj", "{17880157-B91E-434F-ACBB-C7EE352FE2E3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pca", "..\pca\pca.pyproj", "{E54CAFDB-5228-41F4-B497-C106AADBC4D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CF7F73-0C06-426A-AC3D-0FE33C2A4D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CF7F73-0C06-426A-AC3D-0FE33C2A4D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B92BDA8-5A07-461B-A2B4-9FED6149FA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B92BDA8-5A07-461B-A2B4-9FED6149FA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D832B5-0652-455E-827F-78B59EEF1D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D832B5-0652-455E-827F-78B59EEF1D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A131421F-FF85-452D-B9D9-CEF4F9963669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A131421F-FF85-452D-B9D9-CEF4F9963669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD6C740-E0DE-4F95-A945-DE67F1E7EC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD6C740-E0DE-4F95-A945-DE67F1E7EC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA55B64A-CAAB-4C81-BD02-5C08C743889F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA55B64A-CAAB-4C81-BD02-5C08C743889F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C00738-3EC4-4D96-A446-B27415A53649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C00738-3EC4-4D96-A446-B27415A53649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4AE7AE-97D3-41BD-BD9B-C5A35CCE0914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4AE7AE-97D3-41BD-BD9B-C5A35CCE0914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DDCB31-B879-4182-B3CE-2DCA2BE87CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DDCB31-B879-4182-B3CE-2DCA2BE87CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4AC207-69DB-49B0-ADA2-23572601BCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4AC207-69DB-49B0-ADA2-23572601BCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17880157-B91E-434F-ACBB-C7EE352FE2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17880157-B91E-434F-ACBB-C7EE352FE2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54CAFDB-5228-41F4-B497-C106AADBC4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54CAFDB-5228-41F4-B497-C106AADBC4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
